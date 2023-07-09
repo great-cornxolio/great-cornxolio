@@ -10,7 +10,7 @@
 </div>
 
 ### About me
-- I'm constantly learning Data Science, Machine Learning
+- I'm constantly learning **Data Science, Machine Learning**
 - Reach me by [email](mailto:rozkovkirill@gmail.com)
 - I speak English
 
