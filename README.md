@@ -16,4 +16,4 @@
 - I speak English
 
 ### Languages and tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" title="js" width="40" height="40"/>&nbsp;
+<img href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">/>&nbsp;
