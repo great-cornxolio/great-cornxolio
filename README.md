@@ -14,3 +14,6 @@
 - I regularly solve tasks in [Colab Notebooks](https://drive.google.com/drive/folders/1PYOAidoiefIuqOS0ohQcbIW_SPD_gOfs?usp=sharing)
 - Reach me by [email](mailto:rozkovkirill@gmail.com)
 - I speak English
+
+### Languages and tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" title="js" width="40" height="40"/>&nbsp;
