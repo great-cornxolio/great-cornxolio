@@ -1,16 +1,14 @@
-### Hi there 👋
+<div id="header" align="center">
+    <h1>Hi, I'm Kirill</h1>>
+    <h3>Data Scientist from Moscow</h3>>
+</div>>
 
-<!--
-**great-cornxolio/great-cornxolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="socials" align="center">
+    <a href="telegram-url">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
+</div>>
 
-Here are some ideas to get you started:
+### About me
+- I speak English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
