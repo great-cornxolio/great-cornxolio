@@ -11,7 +11,7 @@
 
 ### About me
 - I'm constantly learning **Data Science, Machine Learning**
-- I regularly solve tasks in [Colab Notebooks](https://drive.google.com/drive/folders/1PYOAidoiefIuqOS0ohQcbIW_SPD_gOfs?usp=sharing)
+- I regularly solve tasks in [Colab Notebooks]
 - Reach me by [email](mailto:rozkovkirill@gmail.com)
 - I speak English
 
